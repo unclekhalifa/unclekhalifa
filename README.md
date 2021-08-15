@@ -14,7 +14,7 @@ const khalifa = {
   currentRole: {
     title: "Software Development Team Lead",
     company: "Online Filings"
-  }
+  },
   code: ["JavaScript", "Python", "Swift", "PHP"], // Including but not limited to 😉
   education: [
     {name: "Software Engineering", type: "BSc", grade: "1st"},
