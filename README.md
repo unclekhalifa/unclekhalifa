@@ -11,10 +11,17 @@
 
 ```javascript
 const khalifa = {
-  currentRole: {
-    title: "Software Development Team Lead",
-    company: "Online Filings"
-  },
+  roles: [
+    {
+      title: "Senior Software Engineer",
+      company: "Apolitical",
+      currentRole: true
+    },
+    {
+      title: "Software Development Team Lead",
+      company: "Online Filings"
+    }
+  ],
   code: ["JavaScript", "Python", "Swift", "PHP", "Go"], // Including but not limited to 😉
   education: [
     {name: "Software Engineering", type: "BSc", grade: "1st"},
