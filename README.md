@@ -24,7 +24,7 @@ const khalifa = {
   ],
   code: ["JavaScript", "Python", "Swift", "PHP", "Go"], // Including but not limited to 😉
   education: [
-    {name: "Software Engineering", type: "BSc", grade: "1st"},
+    {name: "Software Engineering", type: "BSc", grade: "Distinction"},
     {name: "Cyber Security", type: "MSc", grade: "Distinction"}
   ],
   interests: {
