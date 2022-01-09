@@ -29,7 +29,7 @@ const khalifa = {
   ],
   interests: {
     technical: [
-      {name: "Cloud Architecture (AWS)"},
+      {name: "Cloud Architecture (AWS, GCP)"},
       {name: "Backend Development"},
       {name: "Automation"},
       {name: "DevOps"},
