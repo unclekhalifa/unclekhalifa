@@ -1,9 +1,9 @@
 # Hello Stranger 👀
-Welcome to my GitHub! You're probably either here to inspect my code or you're just browsing people's GitHub accounts. Weirdo 🙂‍↔️
+Welcome to my GitHub! You're probably here to inspect my code or browse people's GitHub accounts. Weirdo 😆
 
 ## Coding Personality
 - Ship first, refine code later
-- A PR without tests is analagous to a scientist putting forth a theory without an experiment
+- A PR without tests is analogous to a scientist putting forth a theory without an experiment
 - There's no such thing as clean code. There is however objectively terrible cod
 
 ## Skills & Technologies
