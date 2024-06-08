@@ -1,10 +1,7 @@
 # Hello Stranger 👀
 Welcome to my GitHub! You're probably here to inspect my code or browse people's GitHub accounts. Weirdo 😆
 
-## Coding Personality
-- Ship first, refine code later
-- A PR without tests is analogous to a scientist putting forth a theory without an experiment
-- There's no such thing as clean code. There is however objectively terrible cod
+> There's no such thing as clean code. There is however objectively terrible code
 
 ## Skills & Technologies
 
